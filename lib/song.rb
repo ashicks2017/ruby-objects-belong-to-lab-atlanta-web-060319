@@ -1,3 +1,4 @@
+require "pry"
 class FunnyBots  
  
     attr_accessor :name, :quotes  
