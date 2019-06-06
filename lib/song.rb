@@ -19,5 +19,5 @@ class FunnyBots
     end
  
 end
- 
+ binding.pry
   archer = FunnyBots.new("Archer", ["Danger Zone!", "Read a book", "The cumulative hangover would literally kill me"] )
